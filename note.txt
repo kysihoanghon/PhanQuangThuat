@@ -1,0 +1,3 @@
+Em đã làm đc 8 bài từ art9 đến art 17
+Trong đó Art 11( bài máy tính em vẫn chưa đc xong hết cái chức năng)
+Art 17 em chưa làm xong function của button_SelectAll
